@@ -1,0 +1,13 @@
+Navegue até o site https://br.indeed.com/ e varra todas as seguintes informações sobre as vagas python que encontrar ao usar a palavra chave python e depois exporte para um arquivo CSV
+
+1- Navegar até o site https://br.indeed.com/
+
+2- Pesquisar por "Python" https://br.indeed.com/jobs?q=Python&l=&from=searchOnHP&vjk=6bd88114d2731350
+
+3- Varrer todas as informações da página e avançar para próxima página
+    - Cargo
+    - Nome empresa (se tiver)
+    - Local
+    - Link para a vaga
+
+4- Por último, exportar todos os dados para um arquivo CSV
